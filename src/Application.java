@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Application {
     static char[][] board = new char[3][3];
     static boolean isContinue = true;
